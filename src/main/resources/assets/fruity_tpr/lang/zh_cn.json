@@ -1,0 +1,10 @@
+{
+  "item.fruity_tpr.enchanted_chorus_fruit": "附魔紫颂果",
+  "item.fruity_tpr.enchanted_chorus_fruit_mk2": "神化紫颂果",
+  "item.fruity_tpr.enchanted_chorus_fruit.mfd": "生产日期：%s",
+  "item.fruity_tpr.enchanted_chorus_fruit.exp": "有效期至：%s",
+  "item.fruity_tpr.enchanted_chorus_fruit.unexpirable": "永不过期",
+  "commands.fruity_tpr.tpr.failure.single": "随机传送了%s，但是传送事件被其他模组取消了",
+  "commands.fruity_tpr.tpr.success.single": "随机传送了%s",
+  "commands.fruity_tpr.tpr.multiple": "随机传送了%s个实体，成功%s个，%s个传送事件被取消"
+}

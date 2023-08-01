@@ -1,3 +1,10 @@
 {
-  "commands.fruity_tpr.success.single": "随机传送了 %s"
+  "item.fruity_tpr.enchanted_chorus_fruit": "Enchanted Chorus Fruit",
+  "item.fruity_tpr.enchanted_chorus_fruit_mk2": "Apotheosis Chorus Fruit",
+  "item.fruity_tpr.enchanted_chorus_fruit.mfd": "MFD: %s",
+  "item.fruity_tpr.enchanted_chorus_fruit.exp": "EXP: %s",
+  "item.fruity_tpr.enchanted_chorus_fruit.unexpirable": "Never Expires",
+  "commands.fruity_tpr.tpr.failure.single": "Random teleported %s but the teleport event is canceled",
+  "commands.fruity_tpr.tpr.success.single": "Random teleported %s",
+  "commands.fruity_tpr.tpr.multiple": "Random teleported %s entities, %s success, %s canceled"
 }

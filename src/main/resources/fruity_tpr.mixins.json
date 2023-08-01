@@ -1,10 +1,11 @@
 {
   "required": true,
   "minVersion": "0.8",
-  "package": "mod.chloeprime.fruity_tpr.mixin",
+  "package": "mod.chloeprime.fruitytpr.mixin",
   "compatibilityLevel": "JAVA_8",
   "refmap": "fruity_tpr.refmap.json",
   "mixins": [
+    "EntityAccessor"
   ],
   "client": [
   ],
